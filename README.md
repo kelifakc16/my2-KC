@@ -6,3 +6,8 @@ I love visiting **Virginia**.The state is known for beautiful **scenery**, kind 
    - Spending time in nature.
    - Exploring local cuisine and street markets.
    - Relaxing on the pristine sandy beaches.
+   
+   - Fresh seafood 
+   - Tropical fruit smoothies
+   - Grilled coconut shrimp
+   - Pineapple and mango 
