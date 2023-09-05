@@ -22,3 +22,14 @@ I love visiting **Virginia**. The state is known for beautiful **scenery**, kind
    - Pineapple and mango 
 
 For more about me, check out [MyStats](MyStats.md).
+
+---
+
+## Recommended Sports and Activities
+
+| Sport            | Reason                                | Weekly Hours |
+| ---------------- | ------------------------------------- | ------------ |
+| Badminton        | Great for relaxation and fitness      | 4-6 hours    |
+| Hiking           | Enjoy nature and stay active          | 3-5 hours    |
+| Tennis           | Social and competitive                | 2-4 hours    |
+| Yoga             | Stress relief and flexibility         | 2-3 hours    |
