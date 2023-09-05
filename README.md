@@ -33,3 +33,11 @@ For more about me, check out [MyStats](MyStats.md).
 | Hiking           | Enjoy nature and stay active          | 3-5 hours    |
 | Tennis           | Social and competitive                | 2-4 hours    |
 | Yoga             | Stress relief and flexibility         | 2-3 hours    |
+
+---
+
+## Inspiring Scientist Quotes
+
+> "Science knows no country because knowledge belongs to humanity, and is the torch which illuminates the world." - *Louis Pasteur*
+
+> "The important thing is to never stop questioning." - *Albert Einstein*
