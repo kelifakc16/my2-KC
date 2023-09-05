@@ -20,3 +20,5 @@ I love visiting **Virginia**. The state is known for beautiful **scenery**, kind
    - Tropical fruit smoothies
    -  Grilled coconut shrimp
    - Pineapple and mango 
+
+For more about me, check out [MyStats](MyStats.md).
