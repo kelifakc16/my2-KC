@@ -50,7 +50,7 @@ For more about me, check out [MyStats](MyStats.md).
 ## Code Snippet and Stack Overflow Question
 
 
-<hr>
+
 
 ## Javascript
 > Getting the last element of a split string array
