@@ -41,3 +41,17 @@ For more about me, check out [MyStats](MyStats.md).
 > "Science knows no country because knowledge belongs to humanity, and is the torch which illuminates the world." - *Louis Pasteur*
 
 > "The important thing is to never stop questioning." - *Albert Einstein*
+
+
+---
+
+## Code Snippet and Stack Overflow Question
+
+## Code Snippet and Stack Overflow Question
+
+
+<hr>
+
+## Javascript
+
+[https://stackoverflow.com/questions/651563/getting-the-last-element-of-a-split-string-array]
