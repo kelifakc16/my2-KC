@@ -45,7 +45,7 @@ For more about me, check out [MyStats](MyStats.md).
 
 ---
 
-## Code Snippet and Stack Overflow Question
+
 
 ## Code Snippet and Stack Overflow Question
 
