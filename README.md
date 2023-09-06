@@ -53,5 +53,13 @@ For more about me, check out [MyStats](MyStats.md).
 <hr>
 
 ## Javascript
+> Getting the last element of a split string array
+<https://stackoverflow.com/questions/651563/getting-the-last-element-of-a-split-string-array>
 
-[https://stackoverflow.com/questions/651563/getting-the-last-element-of-a-split-string-array]
+```
+const arr = ["This", "Little", "Piggy"];
+const first = arr.pop();
+console.log(first);
+ ```
+
+<https://css-tricks.com/snippets/javascript/getting-first-and-last-items-in-array-and-splitting-all-the-rest/>
